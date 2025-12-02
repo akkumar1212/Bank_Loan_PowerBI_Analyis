@@ -36,6 +36,7 @@ Insight: Grades F and G show a noticeably higher default rate, indicating the ne
 Insight: Loan applications steadily increase month-over-month, with a noticeable peak during Q4—likely driven by seasonal financial activity.
 
 => Dashboard Screenshots
+
 ![Dashboard View]([dashboard.png])
 ![Dashboard View]([dashboard_2.png])
 
