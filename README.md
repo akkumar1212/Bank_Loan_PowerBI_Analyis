@@ -48,4 +48,4 @@ Open it in Power BI Desktop
 
 Explore insights using filters such as the Grade slicer on the left panel
 
-Author: Akhil Kumar
+By: Akhil Kumar
